@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://safian.vercel.app/sitemap.xml
+Host: https://safian.vercel.app

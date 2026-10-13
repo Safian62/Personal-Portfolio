@@ -29,9 +29,9 @@ export const projectData = [
       "TANSTACK QUERY",
       "AWS S3",
     ],
-    title: "APPNA ACADEMY",
+    title: "APPNA Academy CME Portal",
     description:
-      "APPNA Academy – A comprehensive CME and Non-CME academic management platform built to streamline activity creation, approval workflows, speaker management, registrations, attendance, and certification. Developed with a role-based architecture supporting multiple user roles, secure authentication, document uploads, and scalable backend APIs, gaining hands-on experience in building complex real-world workflows and production-ready systems.",
+    "APPNA Academy CME Portal — A continuing medical education platform supporting CME and Non-CME activity management, approval workflows, speaker management, registrations, attendance, and certification. Contributed to application development, frontend and backend integration, workflow implementation, testing, troubleshooting, and deployment-related tasks. Worked with React, TypeScript, NestJS, Prisma, PostgreSQL, and AWS services as part of the development team.",
     url: "https://dev.d375gpetoc3z9p.amplifyapp.com/",
     code: "https://dev.d375gpetoc3z9p.amplifyapp.com/",
   },
